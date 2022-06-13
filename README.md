@@ -6,6 +6,6 @@
 
 This project contains:
 * A Playbook: to extract information from CALDERA platform every day
-* A Workbook: to visualize insights about CALDERA .Furthermore, the workbook shows the related Micorosft Sentinel Alerts that are related to CALDERA agents
+* A Workbook: to visualize insights about CALDERA .Furthermore, the workbook shows the related Micorosft Sentinel Alerts that are related to CALDERA agents to help you identify detection gaps. 
 
 
