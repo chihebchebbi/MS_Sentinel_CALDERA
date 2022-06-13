@@ -9,5 +9,8 @@ This project contains:
 * A Workbook: to visualize insights about CALDERA .Furthermore, the workbook shows the related Micorosft Sentinel Alerts that are related to CALDERA agents to help you identify detection gaps. 
 
 
+<p align="center">
+<img src="Images/CALDERA.gif" alt="logo2" style="width:1400px"></a>
+</p>
 
-
+![](/Images/CALDERA.gif)
