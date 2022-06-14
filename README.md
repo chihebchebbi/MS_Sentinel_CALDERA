@@ -13,4 +13,4 @@ This project contains:
 <img src="[Images/CALDERA.gif](https://github.com/chihebchebbi/MS_Sentinel_CALDERA/blob/main/Images/CALDERA.gif?raw=true)" alt="logo2" style="width:1400px"></a>
 </p>
 
-![]([/Images/CALDERA.gif](https://github.com/chihebchebbi/MS_Sentinel_CALDERA/blob/main/Images/CALDERA.gif?raw=true))
+![](https://github.com/chihebchebbi/MS_Sentinel_CALDERA/blob/main/Images/CALDERA.gif?raw=true)
